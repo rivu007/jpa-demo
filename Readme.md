@@ -14,7 +14,7 @@ curl -X POST \
 }'
 ```
 
-POST a comment:
+POST comments:
 ```
 curl -X POST \
   http://localhost:8080/posts/1/comments \
